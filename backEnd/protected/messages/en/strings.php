@@ -1,0 +1,71 @@
+<?php
+
+return array(
+    'Home' => 'Home',
+    'created' => 'Created',
+    'modified' => 'Modified',
+    'Create' => 'Create',
+    'Save' => 'Save',
+    'id' => 'id',
+    'ID' => 'ID',
+    'Welcome', 'Welcome',
+    'Login', 'Login',
+    'LogoutUser', 'Logout',
+    'backEndTitle' => 'ARG BackEnd',
+    'menu.logout' => 'Logout',
+    'home.welcome' => 'Welcome',
+    'home.name' => 'Name',
+    'home.email' => 'Email',
+    'home.roles' => 'Roles',
+    
+    //  users
+    'Users' => 'Users',
+    'Update Users' => 'Update User',
+    'Create Users' => 'Create User',
+    'Manage Users' => 'Manage User',
+    'Fields with' => 'Fields with',
+    'required' => 'are required',
+    'errorsNote' => 'Please fix the following input errors:',
+    
+    'login' => 'username',
+    'password' => 'Password',
+    'is_superadmin' => 'Is Superadmin',
+    'name' => 'Name',
+    'email' => 'E-mail',
+    'repeat_password' => 'Repeat Password',
+    'active' => 'active',
+    'roleIDs' => 'Role Permissions',
+    'userDeleteConfirm' => 'Are you sure you want to delete user Account?',
+    
+    'connectionError' => 'No internet connection, Please check your Network connection and try again.',
+    'loginValidate' => 'Please enter username',
+    'passwordValidate' => 'Please enter password',
+    'repeatValidate' => 'Confirmation password is empty or invalid',
+    'nameValidate' => 'Please enter name',
+    'emailEmpty' => 'Please enter email',
+    'emailValidate' => 'The email address is in the wrong format',
+    'emptyRole' => 'Please enter role',
+    
+    // News
+    'News' => 'News',
+    'title' => 'title',
+    'description' => 'description',
+    'Create News' => 'Create News',
+    'Update News' => 'Update News',
+    'ar' => 'Arabic',
+    'en' => 'English',
+    'Fields' => 'Fields',
+    
+    'Image' => 'Image',
+    'Title' => 'Title',
+    'Description' => 'Description',
+    'imageValidate' => 'Invalid image only jpg, gif, png',
+    'news_idValidate' => 'news_id is empty or invalid',
+    'languageValidate' => 'language is empty or invalid',
+    'titleValidate' => 'Please enter news’s title',
+    'descriptionValidate' => 'Please enter news’s description',
+    'newsDeleteConfirm' => 'Are you sure you want to delete this news?',
+    'DeleteImg' => 'Delete',
+    
+        )
+?>
